@@ -1,2 +1,2 @@
-# mqtt_server
+# mqtt_broker
 Rust MQTT Server for Debugging Embedded Devices
