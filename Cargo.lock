@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "mqtt_server"
+name = "mqtt_broker"
 version = "0.1.0"
